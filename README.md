@@ -19,7 +19,7 @@ GitHub: https://github.com/ XueZeRan
 
 了解DOM，熟悉原生JavaScript，掌握JS概念
 
-熟悉ES6开发，熟悉原生 js，作用域链，闭包，原型链，jQuery
+熟悉ES6开发，熟悉原生 js，作用域链，闭包，原型链
 
 熟悉移动端 WebApp 布局，熟悉前后端分离开发模式
 
@@ -27,7 +27,7 @@ GitHub: https://github.com/ XueZeRan
 
 有vue项目开发经验，vue全家桶vue-cli,vue-router,vuex
 
-熟练使用 sass，stylus进行 css 预编译
+熟练使用stylus进行 css 预编译
 
 熟悉 Webpack 前端自动化工具，npm包管理工具
 
